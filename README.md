@@ -69,18 +69,9 @@ choco install -y gsudo
 choco install -y zip
 choco install -y googlechrome
 choco install -y vscode
-choco install -y lghub
-choco install -y windirstat
+
 choco install -y everything --params "/start-menu-shortcuts /run-on-system-startup /folder-context-menu /efu-association /client-service"
-choco install -y es
-choco install -y dupeguru
-choco install -y powertoys
-choco install -y autohotkey
-choco install -y lightshot
-choco install -y qbittorrent
-choco install -y linkshellextension
-choco install -y haskell-stack
-choco install -y origin
+
 choco install -y 7zip
 choco install -y unzip
 choco install -y ffmpeg
